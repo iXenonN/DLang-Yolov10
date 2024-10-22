@@ -5,7 +5,7 @@
   
   
 <h2>📚 Libraries</h2>
-<h1>Python:</h1>
+<h3>Python:</h3>
 
 ```
 from ultralytics import YOLOv10
@@ -15,7 +15,7 @@ import socket
 import pickle
 ```
 
-<h1>DLang:</h1>
+<h3>DLang:</h3>
 
 ```
 import std.stdio;
