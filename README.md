@@ -5,7 +5,7 @@
   
   
 <h2 align="center">📚 Libraries</h2>
-<h3 align="center">Python:</h3>
+<h3>Python:</h3>
 
 ```
 from ultralytics import YOLOv10
@@ -15,7 +15,7 @@ import socket
 import pickle
 ```
 
-<h3 align="center">DLang:</h3>
+<h3>DLang:</h3>
 
 ```
 import std.stdio;
@@ -24,7 +24,7 @@ import std.array;
 ```
 <h2 align="center">🛠️ Installation Steps:</h2>
 
-<p align="center">Download any yolov10 pt from here:</p>
+<p>Download any yolov10 pt from here:</p>
 
 ```
 https://github.com/THU-MIG/yolov10
