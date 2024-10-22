@@ -40,3 +40,11 @@ https://github.com/THU-MIG/yolov10
 dub run
 ```
 <p>5. If everything goes right you should have seen the output.</p>
+
+<h2 align="center"> 🚧 Troubleshooting & Common Issues </h2>
+
+<h3> ❌ Issue: `core.exception.OutOfMemoryError@src\core\internal\gc\impl\conservative\gc.d(512): Memory allocation failed` </h3>
+ <h4>- Cause:</h4> This error occurs when you try to make a memory allocation in the D language and there is not enough memory available..
+  
+  <h4>- Solution:</h4> Ensure that your camera is turned on and yolov10 is running.
+  
