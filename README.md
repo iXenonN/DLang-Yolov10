@@ -24,8 +24,18 @@ import std.array;
 ```
 <h2 align="center">🛠️ Installation Steps:</h2>
 
-<p>Download any yolov10 pt from here:</p>
+<p>1. Download any yolov10 pt from the link below and put it in the same folder as your project folder.</p>
+
 
 ```
 https://github.com/THU-MIG/yolov10
+```
+<p>2. Make sure you have any D compiler like dmd.</p>
+
+<p>3. Open your D command prompt and cd to your project path.</p>
+
+<p>4. Run the python code first then run the D code with "dub run" command in your D command prompt.</p>
+
+```
+dub run
 ```
