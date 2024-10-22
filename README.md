@@ -36,7 +36,11 @@ import std.array;
 ```
 https://github.com/THU-MIG/yolov10
 ```
-<p>3. Then copy the name of the pt you downloaded and paste it to 'YOUR PT' part of python code.</p>
+<p>3. Then copy the name of the pt you downloaded and paste it to 'YOUR YOLOV10 PT' part of python code.</p>
+
+```
+MODEL_PATH = 'YOUR YOLOV10 PT'
+```
 
 <p>3. Make sure you have any D compiler like dmd.</p>
 
