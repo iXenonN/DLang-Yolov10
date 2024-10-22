@@ -22,3 +22,10 @@ import std.stdio;
 import std.socket;
 import std.array;
 ```
+<h2>🛠️ Installation Steps:</h2>
+
+<p>Download any yolov10 pt from here:</p>
+
+```
+https://github.com/THU-MIG/yolov10
+```
