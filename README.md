@@ -36,16 +36,18 @@ import std.array;
 ```
 https://github.com/THU-MIG/yolov10
 ```
-<p>2. Make sure you have any D compiler like dmd.</p>
+<p>3. Then copy the name of the pt you downloaded and paste it to 'YOUR PT' part of python code.</p>
 
-<p>3. Open your D command prompt and cd to your project path.</p>
+<p>3. Make sure you have any D compiler like dmd.</p>
 
-<p>4. Run the python code first then run the D code with "dub run" command in your D command prompt.</p>
+<p>4. Open your D command prompt and cd to your project path.</p>
+
+<p>5. Run the python code first then run the D code with "dub run" command in your D command prompt.</p>
 
 ```
 dub run
 ```
-<p>5. If everything goes right you should have seen the output.</p>
+<p>6. If everything goes right you should have seen the output.</p>
 
 <h2 align="center"> 🚧 Troubleshooting & Common Issues </h2>
 
