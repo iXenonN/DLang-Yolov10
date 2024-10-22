@@ -4,7 +4,7 @@
 
   
   
-<h2 align="center">📚 Libraries</h2>
+<h2 align="center">📚 Libraries Used</h2>
 <h3>Python:</h3>
 
 ```
@@ -14,6 +14,8 @@ import cv2
 import socket
 import pickle
 ```
+<h4>For Install:</h4>
+
 ```
 pip install supervision
 pip install ultralytics
