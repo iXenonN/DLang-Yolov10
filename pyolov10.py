@@ -4,7 +4,7 @@ import cv2
 import socket
 import pickle
 
-MODEL_PATH = 'yolov10x.pt'
+MODEL_PATH = 'YOUR YOLOV10 PT'
 cap = cv2.VideoCapture(0)
 
 model = YOLOv10(MODEL_PATH)
