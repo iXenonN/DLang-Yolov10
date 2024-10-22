@@ -39,3 +39,4 @@ https://github.com/THU-MIG/yolov10
 ```
 dub run
 ```
+<p>5. If everything goes right you should have seen the output.</p>
