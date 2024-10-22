@@ -14,7 +14,11 @@ import cv2
 import socket
 import pickle
 ```
-
+```
+pip install supervision
+pip install ultralytics
+pip install opencv-python
+```
 <h3>DLang:</h3>
 
 ```
